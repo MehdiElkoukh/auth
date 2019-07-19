@@ -1,0 +1,27 @@
+.Header {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  height: 90px;
+}
+.img {
+  height: 29px;
+  width: 144px;
+}
+.btn {
+  background-color: #e91d3d !important;
+  border: #e91d3d !important;
+  width: 160px;
+  height: 55px !important;
+}
+.right-side {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+.link {
+  display: flex;
+  align-items: center;
+  color: #e91d3d;
+  margin-right: 33px;
+}
